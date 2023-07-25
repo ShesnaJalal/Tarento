@@ -1,0 +1,11 @@
+Ctrl + Shift + P (Cmd + Shift + P on macOS): Open the command palette.
+Ctrl + Shift + N (Cmd + Shift + N on macOS): Open a new window.
+Ctrl + Shift + W (Cmd + Shift + W on macOS): Close the current window.
+Ctrl + S (Cmd + S on macOS): Save the current file.
+Ctrl + Shift + S (Cmd + Shift + S on macOS): Save all open files.
+Ctrl + O (Cmd + O on macOS): Open a file.
+Ctrl + N (Cmd + N on macOS): Open a new file.
+Ctrl + P (Cmd + P on macOS): Quick open a file by name.
+Ctrl + G (Cmd + G on macOS): Go to a specific line number.
+Ctrl + F (Cmd + F on macOS): Find.
+Ctrl + H (Cmd + H on macOS): Replace.
